@@ -1,0 +1,35 @@
+# Topic files can have comments like this one prefixed with a number sign (#).
+
+# To add a word, simply create a new line and write the word on it.
+example
+
+# To add a hint to a word, add the hint to the end of the line the word is on,
+# separating it from the word by a colon (:).
+topic:What kind of file is this?
+
+# To create multiple words that use the same hint, or multiple hints for the
+# same word(s), separate the words or hints using a pipe character (|).
+file:You're using the example topic ____.|Rhymes with crocodile.
+blue|violet:High-energy visible light.|One of the coolest colors with 100% saturation.
+
+# If you want to use any special characters (#, |, :, \), then you're stupid.
+# No, just kidding. Escape them with backslash (\).
+Will Be Forever \#1:Stefán Karl Stefánsson
+
+# Other escape sequences are also supported, such as line breaks (\n),
+# carriage returns (\r), and indentations (\t). Basically, if the escape
+# sequence exists, it's supported.
+T\ta\tb\ts|S p a c e s:What's the objectively better way to indent?
+
+# Untypable and non-alphanumeric characters do not have to be guessed.
+# They will be displayed to the user in their original forms, aside from
+# underscores (_), which are displayed as thicc spaces (   ), since unknown
+# letters are already displayed using underscores.
+So you knew without the hint?:It's a question.
+
+# Letters with accents will be kept intact, but the unaccented letter will be
+# the only correct way of guessing them.
+Pokémon Sword & Sheild:Two games with lazy animators.
+
+# Alphabetic characters are also case-insensitive.
+AAAaaaAAaaAa:It's only one letter.

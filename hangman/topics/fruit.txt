@@ -1,0 +1,29 @@
+Apple:A fruit with too many varieties.
+Apricot:"Skin color."
+Avacado:A fruit with a large, smooth seed.
+Banana:A long and yellow berry.|A berry that grows on an herb.
+Blackberry:A dark-colored aggregate fruit.
+Cantaloupe
+Cherry
+Coconut:A fruit containing sweet water.|A fruit that looks like a hairy bowling ball.
+Cucumber:Nothing else is called a pickle when pickled.
+Dragonfruit
+Fig
+Grape:A fruit used in jam and wine.
+Grapefruit
+Kiwifruit
+Lemon:A universally sour fruit.
+Lime
+Mango
+Orange
+Papaya
+Peach
+Pear:Objectively the best fruit.
+Plum
+Pineapple
+Pomegranate
+Raspberry
+Star Fruit
+Strawberry:A berry that's actually a flower.
+Tomato
+Watermelon
